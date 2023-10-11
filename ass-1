@@ -1,0 +1,7 @@
+#biggest of two numbers
+a=(input('enter a value:'))
+b=(input('enter a value:'))
+print('a is big')
+    if(a>b)
+else
+print('b is big')
